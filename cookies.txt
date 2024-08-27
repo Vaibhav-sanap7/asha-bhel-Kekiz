@@ -1,0 +1,5 @@
+#  Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.theogdenver.com	TRUE	/	FALSE	2024999999	csrftoken	eb3ZyoJdL4nOHgn0BElGdLSEkviFG5t1
+www.theogdenver.com	TRUE	/	FALSE	2024999999	SameSite	Lax
+
